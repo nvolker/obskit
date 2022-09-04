@@ -8,5 +8,5 @@ gemspec
 gem "minitest"
 gem "rake"
 gem "rubocop"
-gem "rubocop-minitest"
-gem "rubocop-rake"
+gem "rubocop-minitest", require: false
+gem "rubocop-rake", require: false
