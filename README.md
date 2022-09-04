@@ -1,6 +1,9 @@
 # Obskit
 
-Welcome to Obskit!
+![Ruby Style Guide](https://img.shields.io/badge/code_style-rubocop-brightgreen.svg)
+![Gem Version](https://badge.fury.io/rb/obskit.svg)
+![Actions Status](https://github.com/nvolker/obskit/actions/workflows/main.yml/badge.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 An opinionated Ruby on Rails Observability toolbox.
 
