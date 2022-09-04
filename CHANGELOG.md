@@ -1,5 +1,7 @@
+# CHANGELOG
+
 ## [Unreleased]
 
-## [0.1.0] - 2022-09-04
+## [0.0.0] - 2022-09-04
 
 - Initial release
